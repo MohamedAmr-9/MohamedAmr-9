@@ -15,12 +15,14 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/mohamed-amr/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-amr009/" target="_blank">
     <img width="55" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/>
   </a>
   <a href="mailto:mohamadtolba9@gmail.com">
     <img width="55" src="https://skillicons.dev/icons?i=gmail" alt="gmail"/>
   </a>
+  <a href="https://discord.com/users/zaza0474" target="_blank">
+    <img width="55" src="https://skillicons.dev/icons?i=discord" alt="discord"/>
 </div>
 
 ###
