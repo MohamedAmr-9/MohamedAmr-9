@@ -30,8 +30,19 @@
 ###
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=excel,powerbi,sqlserver,python,vscode" height="70" />
+  <!-- Supported by SkillIcons -->
+  <img src="https://skillicons.dev/icons?i=python,visualstudio" height="70"/>
+
+  <!-- Power BI -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="70"/>
+
+  <!-- SQL Server -->
+  <img src="https://skillicons.dev/icons?i=sqlserver" height="70"/>
+
+  <!-- Tableau -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="70"/>
 </div>
+
 
 ###
 
