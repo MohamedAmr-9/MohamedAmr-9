@@ -34,7 +34,7 @@
 
 <div align="left">
   <!-- Excel (Flaticon icon) -->
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" height="70" />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" height="50" />
 
   <!-- Python -->
   <img src="https://skillicons.dev/icons?i=python" height="70" />
@@ -42,11 +42,10 @@
   <!-- Visual Studio -->
   <img src="https://skillicons.dev/icons?i=visualstudio" height="70" />
 
-  <!-- SQL Server -->
-  <img src="https://skillicons.dev/icons?i=sqlserver" height="70" />
+  <!-- My SQL -->
+  <img src="https://skillicons.dev/icons?i=mysql" height="70" />
 
-  <!-- Tableau (devicon) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="70"/>
+ 
 </div>
 
 
