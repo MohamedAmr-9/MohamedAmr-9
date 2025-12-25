@@ -36,6 +36,10 @@
   <!-- Excel (Flaticon icon) -->
   <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" height="50" />
 
+   <!-- SQL Server (Flaticon icon) -->
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="SQL Server" height="50" />
+  
+
   <!-- Python -->
   <img src="https://skillicons.dev/icons?i=python" height="70" />
 
