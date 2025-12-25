@@ -30,7 +30,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=excel,powerbi,sqlserver,python,vscode" height="70" />
+<img src="https://skillicons.dev/icons?i=excel,powerbi,sqlserver,python,vscode" height="70" />
 </div>
 
 ###
