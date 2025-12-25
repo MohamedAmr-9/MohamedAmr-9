@@ -6,6 +6,8 @@
 📊 Data Analyst & Data Science Enthusiast<br>
 🧠 Interested in data-driven decision making and business insights<br>
 📈 Experienced with dashboards, reporting, and data analysis<br>
+⚡ Discord: zaza0474
+ 
 </p>
 
 ###
@@ -21,8 +23,7 @@
   <a href="mailto:mohamadtolba9@gmail.com">
     <img width="55" src="https://skillicons.dev/icons?i=gmail" alt="gmail"/>
   </a>
-  <a href="https://discord.com/users/zaza0474" target="_blank">
-    <img width="55" src="https://skillicons.dev/icons?i=discord" alt="discord"/>
+
 </div>
 
 ###
